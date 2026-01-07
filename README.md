@@ -2,7 +2,8 @@
 ## Netflix Content & Viewership Analysis
 
 ### Objective
-Analyze Netflix content strategy, engagement patterns, and profitability using SQL.
+This project analyzes Netflix’s content catalog, viewership behavior, and cost-to-profit dynamics using SQL.
+The goal is to generate actionable business insights that reflect real-world data analytics workflows used by product, marketing, and strategy teams.
 
 ### Datasets
 - Content metadata
@@ -27,6 +28,10 @@ Analyze Netflix content strategy, engagement patterns, and profitability using S
 - Few titles generate majority of profit
 - Cost efficiency > high budget
 - India is a key growth market
+- 
+
+
+
 
 
 
