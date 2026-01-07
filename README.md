@@ -27,3 +27,6 @@ Analyze Netflix content strategy, engagement patterns, and profitability using S
 - Few titles generate majority of profit
 - Cost efficiency > high budget
 - India is a key growth market
+
+
+
